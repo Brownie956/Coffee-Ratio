@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		027F3F52226DF9B500A6825A /* Cafe_Page_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027F3F51226DF9B500A6825A /* Cafe_Page_UITests.swift */; };
+		027F3F54226DFA8F00A6825A /* User_Page_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027F3F53226DFA8F00A6825A /* User_Page_UITests.swift */; };
+		027F3F56226DFFE700A6825A /* Stock_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027F3F55226DFFE700A6825A /* Stock_UITests.swift */; };
+		027F3F58226E015E00A6825A /* Bean_Page_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027F3F57226E015E00A6825A /* Bean_Page_UITests.swift */; };
+		027F3F5B226E08D300A6825A /* CoffeePageComplete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027F3F5A226E08D300A6825A /* CoffeePageComplete.swift */; };
+		027F3F5E226E0F7200A6825A /* SpecHelperComplete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027F3F5D226E0F7200A6825A /* SpecHelperComplete.swift */; };
+		02FB9F7522C367A0003CCBCE /* CoffeeRatioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FB9F7422C367A0003CCBCE /* CoffeeRatioTests.swift */; };
+		02FB9F7B22C38332003CCBCE /* CoffeePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FB9F7A22C38332003CCBCE /* CoffeePage.swift */; };
+		02FB9F7D22C384EC003CCBCE /* SpecHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FB9F7C22C384EC003CCBCE /* SpecHelper.swift */; };
 		472C7ECA1D07482400B8AB5B /* RatioLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 472C7EC91D07482400B8AB5B /* RatioLogo.png */; };
 		4732BEE11CFAA48E0021E4F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4732BEE01CFAA48E0021E4F4 /* AppDelegate.swift */; };
 		4732BEE31CFAA48E0021E4F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4732BEE21CFAA48E0021E4F4 /* ViewController.swift */; };
@@ -17,7 +26,7 @@
 		4732BF1B1CFE2F6A0021E4F4 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4732BF1A1CFE2F6A0021E4F4 /* logo.png */; };
 		4770C5631D545D8D000C19F5 /* CoffeeCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4770C5621D545D8D000C19F5 /* CoffeeCalculator.swift */; };
 		47916B961D4AA15100DA1116 /* JMPTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47916B951D4AA15100DA1116 /* JMPTimer.swift */; };
-		47A8FC971D4D7068004D412C /* Coffee_Ratio_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A8FC961D4D7068004D412C /* Coffee_Ratio_UITests.swift */; };
+		47A8FC971D4D7068004D412C /* CoffeeRatioTestsComplete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A8FC961D4D7068004D412C /* CoffeeRatioTestsComplete.swift */; };
 		47A8FC9E1D4D70D4004D412C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4732BEE21CFAA48E0021E4F4 /* ViewController.swift */; };
 		47A8FC9F1D4D70F2004D412C /* JMPTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47916B951D4AA15100DA1116 /* JMPTimer.swift */; };
 		47A8FCA01D4D7152004D412C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4732BEE41CFAA48E0021E4F4 /* Main.storyboard */; };
@@ -45,6 +54,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		027F3F51226DF9B500A6825A /* Cafe_Page_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cafe_Page_UITests.swift; sourceTree = "<group>"; };
+		027F3F53226DFA8F00A6825A /* User_Page_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User_Page_UITests.swift; sourceTree = "<group>"; };
+		027F3F55226DFFE700A6825A /* Stock_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stock_UITests.swift; sourceTree = "<group>"; };
+		027F3F57226E015E00A6825A /* Bean_Page_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bean_Page_UITests.swift; sourceTree = "<group>"; };
+		027F3F5A226E08D300A6825A /* CoffeePageComplete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeePageComplete.swift; sourceTree = "<group>"; };
+		027F3F5D226E0F7200A6825A /* SpecHelperComplete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecHelperComplete.swift; sourceTree = "<group>"; };
+		02FB9F7422C367A0003CCBCE /* CoffeeRatioTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeRatioTests.swift; sourceTree = "<group>"; };
+		02FB9F7A22C38332003CCBCE /* CoffeePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeePage.swift; sourceTree = "<group>"; };
+		02FB9F7C22C384EC003CCBCE /* SpecHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecHelper.swift; sourceTree = "<group>"; };
 		472C7EC91D07482400B8AB5B /* RatioLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RatioLogo.png; sourceTree = "<group>"; };
 		4732BEDD1CFAA48E0021E4F4 /* Coffee Ratio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Coffee Ratio.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4732BEE01CFAA48E0021E4F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -58,7 +76,7 @@
 		4770C5621D545D8D000C19F5 /* CoffeeCalculator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoffeeCalculator.swift; sourceTree = "<group>"; };
 		47916B951D4AA15100DA1116 /* JMPTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JMPTimer.swift; sourceTree = "<group>"; };
 		47A8FC941D4D7068004D412C /* Coffee Ratio UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Coffee Ratio UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		47A8FC961D4D7068004D412C /* Coffee_Ratio_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coffee_Ratio_UITests.swift; sourceTree = "<group>"; };
+		47A8FC961D4D7068004D412C /* CoffeeRatioTestsComplete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeRatioTestsComplete.swift; sourceTree = "<group>"; };
 		47A8FC981D4D7068004D412C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47A8FCA51D4D75A8004D412C /* Coffee RatioTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Coffee RatioTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47A8FCA71D4D75A9004D412C /* Coffee_RatioTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coffee_RatioTests.swift; sourceTree = "<group>"; };
@@ -91,6 +109,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		027F3F59226E084900A6825A /* PageObjects */ = {
+			isa = PBXGroup;
+			children = (
+				027F3F5A226E08D300A6825A /* CoffeePageComplete.swift */,
+				02FB9F7A22C38332003CCBCE /* CoffeePage.swift */,
+			);
+			path = PageObjects;
+			sourceTree = "<group>";
+		};
+		027F3F5C226E0F6200A6825A /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				027F3F5D226E0F7200A6825A /* SpecHelperComplete.swift */,
+				02FB9F7C22C384EC003CCBCE /* SpecHelper.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		02AF7DE322BB7243002F0074 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				47A8FC961D4D7068004D412C /* CoffeeRatioTestsComplete.swift */,
+				02FB9F7422C367A0003CCBCE /* CoffeeRatioTests.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
 		4732BED41CFAA48E0021E4F4 = {
 			isa = PBXGroup;
 			children = (
@@ -149,8 +194,14 @@
 		47A8FC951D4D7068004D412C /* Coffee Ratio UITests */ = {
 			isa = PBXGroup;
 			children = (
-				47A8FC961D4D7068004D412C /* Coffee_Ratio_UITests.swift */,
+				02AF7DE322BB7243002F0074 /* Tests */,
+				027F3F5C226E0F6200A6825A /* Helpers */,
+				027F3F59226E084900A6825A /* PageObjects */,
 				47A8FC981D4D7068004D412C /* Info.plist */,
+				027F3F51226DF9B500A6825A /* Cafe_Page_UITests.swift */,
+				027F3F53226DFA8F00A6825A /* User_Page_UITests.swift */,
+				027F3F55226DFFE700A6825A /* Stock_UITests.swift */,
+				027F3F57226E015E00A6825A /* Bean_Page_UITests.swift */,
 			);
 			path = "Coffee Ratio UITests";
 			sourceTree = "<group>";
@@ -259,6 +310,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -322,9 +374,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				027F3F5B226E08D300A6825A /* CoffeePageComplete.swift in Sources */,
+				027F3F56226DFFE700A6825A /* Stock_UITests.swift in Sources */,
 				47A8FC9E1D4D70D4004D412C /* ViewController.swift in Sources */,
+				027F3F52226DF9B500A6825A /* Cafe_Page_UITests.swift in Sources */,
 				47A8FC9F1D4D70F2004D412C /* JMPTimer.swift in Sources */,
-				47A8FC971D4D7068004D412C /* Coffee_Ratio_UITests.swift in Sources */,
+				47A8FC971D4D7068004D412C /* CoffeeRatioTestsComplete.swift in Sources */,
+				027F3F54226DFA8F00A6825A /* User_Page_UITests.swift in Sources */,
+				027F3F5E226E0F7200A6825A /* SpecHelperComplete.swift in Sources */,
+				027F3F58226E015E00A6825A /* Bean_Page_UITests.swift in Sources */,
+				02FB9F7B22C38332003CCBCE /* CoffeePage.swift in Sources */,
+				02FB9F7D22C384EC003CCBCE /* SpecHelper.swift in Sources */,
+				02FB9F7522C367A0003CCBCE /* CoffeeRatioTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
